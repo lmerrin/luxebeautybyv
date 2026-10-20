@@ -1,4 +1,4 @@
-# Luxe Beauty by V — v13
+# Luxe Beauty by V — v14
 Static website with English/Hawaiian toggle, SEO preparation and policy drafts.
 
 ## Preview upload
@@ -24,3 +24,5 @@ The command generates final canonical/social/schema URLs and sitemap.xml and ena
 Vanessa must approve the policies against her actual practices. Legal review is recommended for HIPAA applicability, future intake/consent, retention and professional requirements. No HIPAA, ADA or WCAG certification is claimed. Hawaiian copy needs fluent review. Intake forms remain inactive. Google/Bing account verification and final-domain submission are not done. Check address, prices, licenses, photo permission and the supplied La Lune webfont license.
 
 _headers works only on supporting hosts; GitHub Pages does not apply it. Private Sites access does not carry over to GitHub Pages: a Pages deployment is normally publicly reachable even while noindex is set. noindex is not access control.
+
+Mobile fixes in v14: SVG arrows and native mobile menu disclosure. Upload the complete package, including the updated index.html, app.js, language.js and style.css, to avoid mixed-version files.
