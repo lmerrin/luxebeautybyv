@@ -1,4 +1,4 @@
-# Luxe Beauty by V — v14
+# Luxe Beauty by V — v18
 Static website with English/Hawaiian toggle, SEO preparation and policy drafts.
 
 ## Preview upload
@@ -26,3 +26,12 @@ Vanessa must approve the policies against her actual practices. Legal review is 
 _headers works only on supporting hosts; GitHub Pages does not apply it. Private Sites access does not carry over to GitHub Pages: a Pages deployment is normally publicly reachable even while noindex is set. noindex is not access control.
 
 Mobile fixes in v14: SVG arrows and native mobile menu disclosure. Upload the complete package, including the updated index.html, app.js, language.js and style.css, to avoid mixed-version files.
+
+## v16 approved footer
+Original logo at left, section links at right, legal row below. Footer uses the existing Italiana and DM Sans fonts. Photo hero unchanged. Tablet disclosure navigation retained up to 1000px. Rejected video preview excluded.
+
+## v17 hero and compact footer
+Uploaded salon video is the hero background, muted and looping with a pause/play control. Existing photo is the fallback and initial image. Reduced-motion preference starts with the photo. Footer links remain stacked with less padding and no Explore heading.
+
+## v18 approved footer
+Smaller stacked links moved left, underlined Quick Links title, original logo, and a circular SVG back-to-top link on the right. Retains v17 video hero, photo fallback, reduced-motion handling, and tablet navigation fixes. Upload this complete package instead of v16/v17.
